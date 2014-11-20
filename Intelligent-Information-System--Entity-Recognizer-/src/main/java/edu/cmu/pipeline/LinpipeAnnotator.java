@@ -15,8 +15,8 @@ import com.aliasi.chunk.Chunk;
 import com.aliasi.chunk.ConfidenceChunker;
 import com.aliasi.util.AbstractExternalizable;
 
-import edu.cmu.hw2.types.Gene;
-import edu.cmu.hw2.types.Sentence;
+import edu.cmu.types.Gene;
+import edu.cmu.types.Sentence;
 
 /**
  * @author Ryan Sun 

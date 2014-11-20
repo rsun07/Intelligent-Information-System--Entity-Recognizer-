@@ -1,6 +1,6 @@
 
 /* First created by JCasGen Tue Oct 07 18:15:55 EDT 2014 */
-package edu.cmu.hw2.types;
+package edu.cmu.types;
 
 import org.apache.uima.jcas.JCas;
 import org.apache.uima.jcas.JCasRegistry;

@@ -15,7 +15,7 @@ import org.apache.uima.jcas.tcas.Annotation;
 import org.apache.uima.resource.ResourceInitializationException;
 import org.apache.uima.resource.ResourceProcessException;
 
-import edu.cmu.hw2.types.Gene;
+import edu.cmu.types.Gene;
 
 /*
  * import edu.cmu.support.Evaluator;

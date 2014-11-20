@@ -10,9 +10,9 @@ import org.apache.uima.jcas.JCas;
 import org.apache.uima.jcas.tcas.Annotation;
 import org.apache.uima.resource.ResourceInitializationException;
 
-import edu.cmu.hw2.types.Gene;
-import edu.cmu.hw2.types.Sentence;
 import edu.cmu.support.PosTagNamedEntityRecognizer;
+import edu.cmu.types.Gene;
+import edu.cmu.types.Sentence;
   /**
    * @author Ryan Sun
    * This annotator based on PosTagNamedEntityRecognizer from Stanford Core NLP,

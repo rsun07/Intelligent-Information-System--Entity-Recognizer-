@@ -11,8 +11,8 @@ import org.apache.uima.jcas.tcas.Annotation;
 import org.apache.uima.resource.ResourceInitializationException;
 
 import abner.Tagger;
-import edu.cmu.hw2.types.Gene;
-import edu.cmu.hw2.types.Sentence;
+import edu.cmu.types.Gene;
+import edu.cmu.types.Sentence;
 
 /**
  * @author Ryan Sun
